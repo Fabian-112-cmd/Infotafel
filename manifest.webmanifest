@@ -1,0 +1,26 @@
+{
+  "name": "Weingut Infotafel",
+  "short_name": "Infotafel",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1eee7",
+  "theme_color": "#493251",
+  "icons": [
+    {
+      "src": "install-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "install-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "id": "./",
+  "lang": "de",
+  "description": "Infotafel und Herbstverwaltung für Weingut Pau & Maya BIO"
+}
